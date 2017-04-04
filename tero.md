@@ -13,10 +13,10 @@ And some Python
 
 And some other ways of Python
 
-´´´python
+```python
 import os
 
 print("hello world")
-´´´
+```
 
 
