@@ -11,5 +11,12 @@ And some Python
 
 	print("hello world")
 
-And some other. 
+And some other ways of Python
+
+´´´python
+import os
+
+print("hello world")
+´´´
+
 
